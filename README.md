@@ -1,4 +1,6 @@
-# brl_conversor
+# BRL Conversor
+
+Desenvolvido apenas para aprendizado. It was developed for learning only.
 
 A new Flutter application.
 
