@@ -13,7 +13,7 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^1.0.2
   intl: ^0.17.0
-  dio: ^4.0.6
+  dio: ^5.2.1+1
   provider: ^6.0.3
 
 dev_dependencies:
